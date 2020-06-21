@@ -1,4 +1,4 @@
-Blood Bank Maanagement System 
+Blood Bank Management System 
 
 For Database 
 1. First open XAMPP server and start Apache and mySQL in it.
